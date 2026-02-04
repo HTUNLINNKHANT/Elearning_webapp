@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://leadershipjapanese.com/</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://leadershipjapanese.com/en/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://leadershipjapanese.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://leadershipjapanese.com/my/" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://leadershipjapanese.com/about</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://leadershipjapanese.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://leadershipjapanese.com/ja/about" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://leadershipjapanese.com/my/about" />
+  </url>
+  
+  <!-- Courses Page -->
+  <url>
+    <loc>https://leadershipjapanese.com/courses</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://leadershipjapanese.com/en/courses" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://leadershipjapanese.com/ja/courses" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://leadershipjapanese.com/my/courses" />
+  </url>
+  
+  <!-- Blog Page -->
+  <url>
+    <loc>https://leadershipjapanese.com/blog</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://leadershipjapanese.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://leadershipjapanese.com/ja/blog" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://leadershipjapanese.com/my/blog" />
+  </url>
+  
+  <!-- Contact Page -->
+  <url>
+    <loc>https://leadershipjapanese.com/contact</loc>
+    <lastmod>2025-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://leadershipjapanese.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://leadershipjapanese.com/ja/contact" />
+    <xhtml:link rel="alternate" hreflang="my" href="https://leadershipjapanese.com/my/contact" />
+  </url>
+  
+</urlset>

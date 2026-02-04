@@ -1,0 +1,498 @@
+{
+    "nav": {
+        "home": "Home",
+        "courses": "Courses",
+        "about": "About",
+        "blogs": "Blogs",
+        "contact": "Contact",
+        "testimonials": "Testimonials",
+        "myCourses": "My Courses",
+        "admin": "Admin",
+        "login": "Login",
+        "logout": "Logout",
+        "joinNow": "Join Now"
+    },
+    "hero": {
+        "badge": "CREATIVE DESIGN EDUCATION",
+        "title": "Master Creative Design",
+        "description": "Join ART OF LWIN and unlock your creative potential. From fundamentals to advanced techniques, we guide you every step of the way to becoming a professional designer.",
+        "stats": {
+            "students": "Students",
+            "passRate": "Success Rate",
+            "years": "Years"
+        },
+        "cta": {
+            "join": "Join Now",
+            "viewCourses": "View Courses"
+        },
+        "values": {
+            "learn": "CREATE",
+            "study": "DESIGN",
+            "succeed": "INNOVATE",
+            "grow": "INSPIRE"
+        }
+    },
+    "about": {
+        "badge": "About Us", 
+        "title": "ART OF LWIN Creative Academy",
+        "mission": {
+            "title": "Our Mission",
+            "description": "Welcome to ART OF LWIN Creative Academy, where creativity meets excellence in design education. Established with a mission to nurture creative talent and empower designers, we have helped thousands of students transform their artistic vision into professional careers."
+        },
+        "approach": {
+            "title": "Our Approach",
+            "description": "Our expert instructors, industry-standard curriculum, and innovative online platform make learning graphic design accessible, engaging, and effective. Whether you're starting from scratch, building a portfolio, or advancing your career, we're here to guide your creative journey."
+        },
+        "features": {
+            "curriculum": {
+                "title": "Industry-Standard Curriculum",
+                "description": "Comprehensive courses from beginner to advanced levels"
+            },
+            "instructors": {
+                "title": "Expert Instructors",
+                "description": "Professional designers with years of industry experience"
+            },
+            "online": {
+                "title": "Online Learning",
+                "description": "Study anytime, anywhere at your own pace"
+            },
+            "results": {
+                "title": "Proven Results",
+                "description": "95% of graduates land design jobs or freelance work"
+            }
+        }
+    },
+    "courses": {
+        "badge": "Our Courses",
+        "title": "Popular Courses",
+        "loading": "Loading courses...",
+        "noCourses": "No courses available at the moment.",
+        "viewDetails": "View Details",
+        "browseAll": "Browse All Courses",
+        "beginner": {
+            "name": "Graphic Design Fundamentals",
+            "description": "Perfect for absolute beginners. Learn design principles, color theory, typography, and essential design tools."
+        },
+        "intermediate": {
+            "name": "Advanced Design Techniques",
+            "description": "Advance your skills with complex layouts, branding, illustration, and professional design workflows."
+        },
+        "advanced": {
+            "name": "Master Designer Course",
+            "description": "Master advanced design with motion graphics, UI/UX design, and portfolio development for professional work."
+        },
+        "branding": {
+            "name": "Brand Identity Design",
+            "description": "Learn professional branding and identity design, including logo creation, brand guidelines, and visual systems."
+        },
+        "level": "Level",
+        "duration": "Duration",
+        "months": "months"
+    },
+    "portfolio": {
+        "badge": "Portfolio",
+        "title": "Student Work",
+        "subtitle": "Our Students' Creative Achievements",
+        "items": {
+            "workshop": {
+                "title": "Design Workshop",
+                "description": "Hands-on creative workshops with industry professionals"
+            },
+            "achievement": {
+                "title": "Student Projects",
+                "description": "Celebrating our students' outstanding design portfolios"
+            },
+            "onlineClass": {
+                "title": "Online Classes",
+                "description": "Interactive online classes with professional designers"
+            },
+            "designSuccess": {
+                "title": "Design Awards",
+                "description": "Students winning design competitions and recognition"
+            },
+            "exhibition": {
+                "title": "Design Exhibition",
+                "description": "Annual student design showcase and exhibitions"
+            },
+            "groupStudy": {
+                "title": "Collaborative Projects",
+                "description": "Team-based design projects for all skill levels"
+            }
+        }
+    },
+    "testimonials": {
+        "badge": "Testimonials",
+        "title": "What Our Students Say",
+        "subtitle": "Success Stories from Our Community",
+        "verifiedStudent": "Verified Student",
+        "joinThousands": "Join thousands of satisfied students",
+        "startJourney": "Start Your Journey Today",
+        "reviews": {
+            "sarah": "The structured curriculum helped me build an amazing portfolio! The instructors are talented and the projects are industry-relevant.",
+            "michael": "I went from zero design skills to landing my first freelance clients in 6 months. The online platform is intuitive and inspiring.",
+            "emma": "Best investment I made for my career. Now I work as a professional designer at a top agency. Highly recommended!",
+            "david": "The real-world projects and creative feedback made learning enjoyable. Built a portfolio that got me hired!",
+            "lisa": "Flexible schedule perfect for working professionals. The instructors genuinely care about your creative growth."
+        }
+    },
+    "faq": {
+        "badge": "FAQ",
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything You Need to Know",
+        "questions": {
+            "apply": {
+                "q": "How do I apply for a course?",
+                "a": "Simply click the \"Join Now\" button on any course, create an account, and complete the enrollment process. You can start learning immediately after payment."
+            },
+            "software": {
+                "q": "What software do I need?",
+                "a": "We primarily use Adobe Creative Suite (Photoshop, Illustrator, InDesign) and Figma. We provide guidance on accessing these tools, including student discounts and free alternatives."
+            },
+            "prior": {
+                "q": "Do I need any prior design experience?",
+                "a": "No prior experience is required for our beginner courses. We start from the fundamentals including design principles, color theory, and basic software skills."
+            },
+            "classes": {
+                "q": "Are the classes live or recorded?",
+                "a": "We offer both live interactive classes and recorded lessons. You can attend live sessions or watch recordings at your convenience."
+            },
+            "materials": {
+                "q": "What materials are included in the course?",
+                "a": "All courses include video tutorials, design templates, project files, resource libraries, and access to our online learning platform with feedback from instructors."
+            },
+            "refund": {
+                "q": "Can I get a refund if I'm not satisfied?",
+                "a": "Yes, we offer a 14-day money-back guarantee. If you're not satisfied within the first two weeks, we'll provide a full refund."
+            },
+            "jlpt": {
+                "q": "Do you offer advanced graphic design certification courses?",
+                "a": "Yes! We offer comprehensive graphic design courses from beginner to advanced levels, including certification programs. Our courses cover Adobe Creative Suite, UI/UX design, branding, and portfolio development to help you become a professional designer."
+            }
+        }
+    },
+    "contact": {
+        "badge": "Contact",
+        "title": "Contact Us",
+        "subtitle": "Get in Touch With Us",
+        "contactInformation": "Contact Information",
+        "officeHours": "Office Hours",
+        "mondayFriday": "Monday - Friday: 9:00 AM - 6:00 PM",
+        "saturday": "Saturday: 10:00 AM - 4:00 PM",
+        "sunday": "Sunday: Closed",
+        "sendMessage": "Send us a Message",
+        "successTitle": "Message sent successfully!",
+        "successMessage": "We'll get back to you soon.",
+        "followUs": "Follow Us",
+        "form": {
+            "name": "Name",
+            "namePlaceholder": "Your name",
+            "email": "Email",
+            "emailPlaceholder": "your@email.com",
+            "phone": "Phone Number",
+            "phonePlaceholder": "+95 123 456 789",
+            "message": "Message",
+            "messagePlaceholder": "How can we help you?",
+            "send": "Send Message",
+            "sending": "Sending...",
+            "required": "*"
+        },
+        "info": {
+            "address": "Address",
+            "addressLine1": "No. 23/B, Tsp, 2 Sin Yay Twin St",
+            "addressLine2": "Yangon, Myanmar",
+            "phone": "Phone",
+            "email": "Email",
+            "hours": "Office Hours"
+        }
+    },
+    "footer": {
+        "tagline": "Empowering students to master creative design and unlock artistic opportunities since 2010.",
+        "quickLinks": "Quick Links",
+        "ourCourses": "Our Courses",
+        "contactUs": "Contact Us",
+        "followUs": "Follow Us",
+        "home": "Home",
+        "courses": "Courses",
+        "aboutUs": "About Us",
+        "testimonials": "Testimonials",
+        "contact": "Contact",
+        "levels": {
+            "n5": "Beginner - Fundamentals",
+            "n4": "Elementary - Basics",
+            "n3": "Intermediate - Advanced Techniques",
+            "n2": "Upper Intermediate - Professional",
+            "n1": "Advanced - Master Designer",
+            "business": "Brand Identity Design"
+        },
+        "copyright": "© {{year}} ART OF LWIN Creative Academy. All rights reserved.",
+        "address": "123 Creative Street, Design District",
+        "phone": "+1 (555) 123-4567",
+        "email": "info@artoflwin.com",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "cookiePolicy": "Cookie Policy"
+    },
+    "backToTop": "Back to Top",
+    "cta": {
+        "title": "Ready to Start Your Creative Journey?",
+        "subtitle": "Join thousands of students who have successfully launched their design careers with us",
+        "loginButton": "Login to Start",
+        "coursesButton": "View Courses"
+    },
+    "auth": {
+        "login": {
+            "title": "Welcome",
+            "subtitle": "Sign in to your account",
+            "email": "Email Address",
+            "password": "Password",
+            "rememberMe": "Remember me",
+            "forgotPassword": "Forgot password?",
+            "submit": "Sign In",
+            "loggingIn": "Logging in...",
+            "noAccount": "Don't have an account?",
+            "signUp": "Sign up",
+            "or": "or",
+            "continueWithGoogle": "Continue with Google",
+            "continueWithFacebook": "Continue with Facebook"
+        },
+        "forgotPassword": {
+            "title": "Forgot Password",
+            "subtitle": "Enter your email address and we'll send you a link to reset your password",
+            "emailLabel": "Email Address",
+            "emailPlaceholder": "your@email.com",
+            "submit": "Send Reset Link",
+            "sending": "Sending...",
+            "successTitle": "Email sent!",
+            "successMessage": "Check your email for a link to reset your password. If it doesn't appear within a few minutes, check your spam folder.",
+            "backToLogin": "Back to Login",
+            "error": "Failed to send reset link. Please try again."
+        },
+        "resetPassword": {
+            "title": "Reset Password",
+            "subtitle": "Enter your new password below",
+            "emailLabel": "Email Address",
+            "passwordLabel": "New Password",
+            "passwordPlaceholder": "Enter new password",
+            "confirmPasswordLabel": "Confirm Password",
+            "confirmPasswordPlaceholder": "Re-enter new password",
+            "passwordHint": "Password must be at least 8 characters",
+            "submit": "Reset Password",
+            "resetting": "Resetting...",
+            "successTitle": "Password reset successful!",
+            "successMessage": "Your password has been reset. Redirecting to login...",
+            "backToLogin": "Back to Login",
+            "error": "Failed to reset password. Please try again.",
+            "invalidLink": "Invalid or expired reset link. Please request a new one.",
+            "passwordMismatch": "Passwords do not match",
+            "passwordTooShort": "Password must be at least 8 characters"
+        },
+        "register": {
+            "title": "Create Account",
+            "subtitle": "Join us today",
+            "name": "Full Name",
+            "email": "Email Address",
+            "password": "Password",
+            "confirmPassword": "Confirm Password",
+            "agreeToTerms": "I agree to the",
+            "termsOfService": "Terms of Service",
+            "and": "and",
+            "privacyPolicy": "Privacy Policy",
+            "submit": "Create Account",
+            "creating": "Creating account...",
+            "haveAccount": "Already have an account?",
+            "logIn": "Log in",
+            "or": "or",
+            "signUpWithGoogle": "Sign up with Google",
+            "signUpWithFacebook": "Sign up with Facebook"
+        }
+    },
+    "admin": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "settings": "Settings",
+        "courses": "Courses",
+        "categories": "Levels",
+        "levels": "Levels",
+        "instructors": "Instructors",
+        "curriculum": "Curriculum",
+        "lessons": "Lessons",
+        "students": "Students",
+        "addCourse": "Add Course",
+        "editCourse": "Edit Course",
+        "deleteCourse": "Delete Course",
+        "deleteCourseConfirm": "Are you sure you want to delete this course? This action cannot be undone.",
+        "addCategory": "Add Level",
+        "addLevel": "Add Level",
+        "editCategory": "Edit Level",
+        "editLevel": "Edit Level",
+        "deleteCategory": "Delete Level",
+        "deleteLevel": "Delete Level",
+        "deleteCategoryConfirm": "Are you sure you want to delete this level?",
+        "deleteLevelConfirm": "Are you sure you want to delete this level?",
+        "addInstructor": "Add Instructor",
+        "editInstructor": "Edit Instructor",
+        "deleteInstructor": "Delete Instructor",
+        "deleteInstructorConfirm": "Are you sure you want to delete this instructor?",
+        "addCurriculum": "Add Curriculum",
+        "editCurriculum": "Edit Curriculum",
+        "deleteCurriculum": "Delete Curriculum",
+        "deleteCurriculumConfirm": "Are you sure you want to delete this curriculum section?",
+        "addLesson": "Add Lesson",
+        "editLesson": "Edit Lesson",
+        "deleteLesson": "Delete Lesson",
+        "deleteLessonConfirm": "Are you sure you want to delete this lesson?",
+        "title": "Title",
+        "name": "Name",
+        "email": "Email",
+        "description": "Description",
+        "category": "Level",
+        "instructor": "Instructor",
+        "level": "Difficulty",
+        "price": "Price",
+        "duration": "Duration",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "actions": "Actions",
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "Save",
+        "saving": "Saving...",
+        "cancel": "Cancel",
+        "searchCourses": "Search courses...",
+        "slug": "Slug",
+        "order": "Order",
+        "bio": "Bio",
+        "expertise": "Expertise",
+        "avatarUrl": "Avatar URL",
+        "imageUrl": "Image URL",
+        "videoUrl": "Video URL",
+        "type": "Type",
+        "content": "Content",
+        "freePreview": "Free Preview",
+        "backToCourses": "Back to Courses",
+        "noCurriculum": "No curriculum sections yet. Add one to get started.",
+        "noLessons": "No lessons yet. Add one to get started."
+    },
+    "coursesPage": {
+        "title": "Our Courses",
+        "subtitle": "Choose from our comprehensive range of Japanese language courses designed for every level",
+        "filterByLevel": "Filter by Level",
+        "allLevels": "All Levels",
+        "level": "Level",
+        "duration": "Duration",
+        "weeks": "weeks",
+        "joinNow": "Join Now",
+        "noCourses": "No courses found for this level",
+        "loading": "Loading courses...",
+        "defaultDescription": "Comprehensive Japanese language course designed to help you achieve fluency and cultural understanding.",
+        "previous": "Previous",
+        "next": "Next"
+    },
+    "joinCourse": {
+        "title": "Join This Course",
+        "howToJoin": "How to Join",
+        "step1": "Contact us through any of the social media platforms below",
+        "step2": "Transfer the course fee using your preferred payment method",
+        "step3": "Send us the payment confirmation and we'll activate your account",
+        "coursePrice": "Course Price",
+        "contactUs": "Contact Us Via",
+        "phoneNumber": "Phone Number",
+        "copy": "Copy",
+        "copied": "Copied!",
+        "paymentMethods": "Payment Methods",
+        "paymentInfo": "We accept KBZ Pay, Wave Money, CB Pay, and bank transfers. Contact us for payment details.",
+        "close": "Close"
+    },
+    "myCourses": {
+        "title": "My Courses",
+        "subtitle": "Continue your learning journey",
+        "loading": "Loading your courses...",
+        "noCourses": "No Courses Yet",
+        "noCoursesDescription": "You haven't enrolled in any courses yet. Browse our courses to get started!",
+        "browseCourses": "Browse Courses",
+        "progress": "Progress",
+        "weeks": "weeks",
+        "lessons": "lessons",
+        "continue": "Continue Learning",
+        "start": "Start Learning"
+    },
+    "courseLearning": {
+        "loading": "Loading course...",
+        "courseNotFound": "Course not found",
+        "backToCourses": "Back to My Courses",
+        "selectLesson": "Select a lesson",
+        "courseContent": "Course Content",
+        "section": "Section",
+        "invalidVideo": "Invalid video URL",
+        "invalidVideoDescription": "Please check the video URL in admin panel",
+        "selectLessonPrompt": "Select a lesson to start learning",
+        "noLessons": "No lessons available",
+        "noCurriculum": "No curriculum available for this course",
+        "free": "Free",
+        "minutes": "min",
+        "loadingVideo": "Loading secure video...",
+        "videoAccessDenied": "Video Access Denied"
+    },
+    "aboutPage": {
+        "title": "About Us",
+        "subtitle": "Empowering Students Through Quality Education",
+        "founder": {
+            "title": "Meet Our Founder",
+            "name": "Lwin Htet Aung",
+            "position": "Founder & Principal",
+            "message": "Education is not just about learning facts, but about developing the mind to think critically and creatively. Our mission is to nurture each student's potential and prepare them for a bright future."
+        },
+        "history": {
+            "title": "Our History",
+            "content": "Founded in 2016, our school has been dedicated to providing exceptional education that combines traditional values with modern teaching methods. Starting with just 50 students, we have grown into a thriving educational institution serving hundreds of students from diverse backgrounds. Our journey has been marked by continuous innovation and unwavering commitment to academic excellence."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "content": "To provide high-quality education that empowers students with knowledge, skills, and values necessary to succeed in an ever-changing world. We strive to create a nurturing environment where every student can reach their full potential."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "content": "To be a leading educational institution recognized for excellence in teaching, innovation in learning, and commitment to developing well-rounded individuals who contribute positively to society."
+        },
+        "achievements": {
+            "title": "Our Achievements",
+            "items": [
+                {
+                    "icon": "🎓",
+                    "title": "1000+ Certificate",
+                    "description": "Successfully graduated students pursuing higher education and careers"
+                },
+                {
+                    "icon": "⭐",
+                    "title": "Excellence Awards",
+                    "description": "Recognized for outstanding academic performance and innovation"
+                },
+                {
+                    "icon": "🌍",
+                    "title": "Global Partnerships",
+                    "description": "Collaborations with international institutions for student exchange"
+                }
+            ]
+        }
+    },
+    "materials": {
+        "title": "Course Materials",
+        "download": "Download",
+        "downloading": "Downloading",
+        "uploadNew": "Upload New Material",
+        "noMaterials": "No materials available for this lesson",
+        "fileName": "File Name",
+        "fileSize": "File Size",
+        "fileType": "File Type",
+        "downloads": "downloads",
+        "addMaterial": "Add Material",
+        "editMaterial": "Edit Material",
+        "deleteMaterial": "Delete Material",
+        "confirmDelete": "Are you sure you want to delete this material?",
+        "file": "File",
+        "description": "Description",
+        "order": "Order",
+        "loading": "Loading materials"
+    }
+}

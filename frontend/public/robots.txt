@@ -1,0 +1,14 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin and private pages
+Disallow: /admin/
+Disallow: /login
+Disallow: /profile
+Disallow: /my-courses
+Disallow: /reset-password
+Disallow: /forgot-password
+
+# Sitemap location
+Sitemap: https://leadershipjapanese.com/sitemap.xml
